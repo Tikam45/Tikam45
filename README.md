@@ -30,8 +30,8 @@
 **APIs & Authentication:**  
 - RESTful APIs, JWT, Clerk, WebSockets, Socket.io  
 
-**Other Tools:**  
-- Postman, GitHub, Twilio, Razorpay  
+**Other Tools & Libraries:**  
+- FFmpeg, MoviePy, PDFPlumber, GGTA, Postman, GitHub, Twilio, Razorpay  
 
 ---
 
@@ -48,12 +48,25 @@
 - Implemented **secure authentication** and **real-time order management**.  
 - Integrated **Razorpay** for seamless transactions.  
 
+### 📄🎥 **PDF to Video Generator**  
+**Tech:** Python, FFmpeg, MoviePy, PDFPlumber, GGTA  
+- Extracts text and images from **PDFs** and converts them into **dynamic videos**.  
+- Uses **PDFPlumber** for text extraction and **MoviePy** for video generation.  
+- Enhances videos with **FFmpeg** for smooth transitions and animations.  
+- Supports **background music, subtitles, and voice-over generation**.  
+
+### 📖 **Shrimad Bhagavad Gita Web App**  
+**Tech:** Next.js, React.js, MongoDB, Node.js, Tailwind CSS  
+- Digital platform for reading and exploring **Bhagavad Gita** chapters and slokas.  
+- Implements **user-friendly navigation** to access chapter-wise slokas with translations.  
+- Built with **MongoDB** for structured storage of slokas, descriptions, and user notes.  
+
 ---
 
 ## 🏆 **Achievements**
-- 🏅 **Knight Badge** on LeetCode (1850+ rating)  
+- 🏅 **Knight Badge** on LeetCode (1850+ problems solved)  
 - 🏆 **Reliance Foundation Undergraduate Scholar 2023**  
-- ⚔️ **Pupil** on Codeforces (1265+), 1710+ rating at CodeChef  
+- ⚔️ **Pupil** on Codeforces (1265+), 1710+ at CodeChef  
 - 🌍 **Global Ranks:**  
   - **LeetCode:** 1278, 2865  
   - **CodeChef:** 107, 332, 482  
@@ -71,4 +84,3 @@
 ---
 
 ⭐ **Check out my repositories and drop a star if you find them useful!**  
-
