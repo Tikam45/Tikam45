@@ -4,7 +4,7 @@
 
 📍 **B.Tech CSE** @ Rajasthan Technical University (2022 - 2026)  
 🎯 **Tech Stack:** Next.js, React.js, TypeScript, Node.js, PostgreSQL, MongoDB, Cloudflare, Docker  
-🏆 **Knight Badge** on LeetCode | **Pupil** on Codeforces | **Reliance Foundation Scholar**  
+🏆 **Knight Badge** at LeetCode | **Specialist** at Codeforces | **Reliance Foundation Scholar**  
 
 ---
 
@@ -31,7 +31,7 @@
 - RESTful APIs, JWT, Clerk, WebSockets, Socket.io  
 
 **Other Tools & Libraries:**  
-- FFmpeg, MoviePy, PDFPlumber, GGTA, Postman, GitHub, Twilio, Razorpay  
+- FFmpeg, MoviePy, PDFPlumber, GTTS, Postman, GitHub, Twilio, Razorpay  
 
 ---
 
@@ -64,9 +64,9 @@
 ---
 
 ## 🏆 **Achievements**
-- 🏅 **Knight Badge** on LeetCode (1850+ problems solved)  
+- 🏅 **Knight Badge** on LeetCode (1940+)  
 - 🏆 **Reliance Foundation Undergraduate Scholar 2023**  
-- ⚔️ **Pupil** on Codeforces (1265+), 1710+ at CodeChef  
+- ⚔️ **Specialist** on Codeforces (1400+), 1721+ at CodeChef  
 - 🌍 **Global Ranks:**  
   - **LeetCode:** 1278, 2865  
   - **CodeChef:** 107, 332, 482  
